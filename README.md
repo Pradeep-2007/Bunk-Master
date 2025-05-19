@@ -1,16 +1,21 @@
-# bunk_master_app
+🎓 Bunk Master – Attendance Tracker App 📝✨
+Your ultimate student buddy to track attendance and find out how many safe bunk days you’ve got! 😎📅
 
-A new Flutter project.
+🚀 Features
+Calculate safe bunk days based on working days, attendance, and target % 📊✅
 
-## Getting Started
+Real-time results with a clean and simple UI 🎨💡
 
-This project is a starting point for a Flutter application.
+Splash screen, dark mode 🌙, and smart form validation ✔️
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Tech Stack
+Built with Flutter & Dart 🐦💙
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🧑‍💻 How to Use
+Enter total working days 📆
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Input days attended ✅
+
+Set your target attendance % 🎯
+
+See your safe bunk days and relax! 😴🎉
